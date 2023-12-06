@@ -17,4 +17,5 @@ My Github page is http://github.com/najmeefaizan.
     Lab 2 part 2 stood out for me as the second favorite because it cleverly took words I entered and made them into a litte story. It was neat seeing how my words turned into sentences. This helped me learn about words and how computers can use them in an interesting way.
 
 * [Lab 6](https://github.com/cpsc-fall-2023/cpsc-120-lab-06-lupe-and-faizan)
+    
     Lab 6 part 2 ranked third among my favorites due to its foundational role in blackjack simulation. The code contains functions defining card values with precision, especially distinguishing Aces, Face Cards, and number cards. These functions form the essential logic for computing scores and managing key aspects in a simulated blackjack game.
